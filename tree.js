@@ -525,7 +525,7 @@ var data = [
     { "name": "Alice Knystautas",		"class": "2024 ΓΓ", "active": "y", "parent": "Cass Barraza"},
     { "name": "Christian Aguilar",		"class": "2024 ΓΓ", "active": "y", "parent": "Jordan Amey"},
     { "name": "Dashiell Modesitt-Wong",		"class": "2024 ΓΓ", "active": "y", "parent": "Elizabeth Tan"},
-    { "name": "Eddie Lau",			"class": "2024 ΓΓ", "active": "y", "parent": "Skylar Coleman"},
+    { "name": "Eddie Lau",			"class": "2024 ΓΓ", "active": "y", "parent": "Skyler Coleman"},
     { "name": "Grace Kieffer",			"class": "2024 ΓΓ", "active": "y", "parent": "Maia Holmes Kueny"},
     { "name": "Isabelle Preston",		"class": "2024 ΓΓ", "active": "y", "parent": "Matthew Chavez"},
     { "name": "Jacob Rusting",			"class": "2024 ΓΓ", "active": "y", "parent": "Gabriel Martinez Sandoval"},

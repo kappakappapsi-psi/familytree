@@ -504,11 +504,11 @@ var data = [
     //Gamma Beta
     { "name": "Alfredo Moran",			"class": "2023 ΓB", "active": "y", "parent": "Jose Munoz"},
     { "name": "Benjamin Zietz",			"class": "2023 ΓB", "active": "y", "parent": "Caitlyn Lo"},
-    { "name": "Edward Rodriguez",			"class": "2023 ΓB", "active": "y", "parent": "Leigha Linder"},
+    { "name": "Edward Rodriguez",		"class": "2023 ΓB", "active": "y", "parent": "Leigha Linder"},
     { "name": "Elizabeth Tan",			"class": "2023 ΓB", "active": "y", "parent": "Cass Barraza"},
     { "name": "Emma Crawford",			"class": "2023 ΓB", "active": "y", "parent": "Maia Holmes Kueny"},
-    { "name": "Gabriel Martinez Sandoval",			"class": "2023 ΓB", "active": "y", "parent": "Monica Quevedo"},
-    { "name": "Grace Pellegrino",			"class": "2023 ΓB", "active": "y", "parent": "Brian Acevedo"},
+    { "name": "Gabriel Martinez Sandoval",	"class": "2023 ΓB", "active": "y", "parent": "Monica Quevedo"},
+    { "name": "Grace Pellegrino",		"class": "2023 ΓB", "active": "y", "parent": "Brian Acevedo"},
     { "name": "Holly Boyd",			"class": "2023 ΓB", "active": "y", "parent": "George Mooradian"},
     { "name": "John Zhang",			"class": "2023 ΓB", "active": "y", "parent": "Sam Black"},
     { "name": "Jordan Amey",			"class": "2023 ΓB", "active": "y", "parent": "Rachael Cohen"},
@@ -520,6 +520,24 @@ var data = [
     { "name": "Stanley Chow",			"class": "2023 ΓB", "active": "y", "parent": "Emily Rusting"},
     { "name": "Valerie Jun",			"class": "2023 ΓB", "active": "y", "parent": "Johanna Bai"},
 
+    //Gamma Gamma
+    { "name": "Adam Acosta",			"class": "2024 ΓΓ", "active": "y", "parent": "Stanley Chow"},
+    { "name": "Alice Knystautas",		"class": "2024 ΓΓ", "active": "y", "parent": "Cass Barraza"},
+    { "name": "Christian Aguilar",		"class": "2024 ΓΓ", "active": "y", "parent": "Jordan Amey"},
+    { "name": "Dashiell Modesitt-Wong",		"class": "2024 ΓΓ", "active": "y", "parent": "Elizabeth Tan"},
+    { "name": "Eddie Lau",			"class": "2024 ΓΓ", "active": "y", "parent": "Skylar Coleman"},
+    { "name": "Grace Kieffer",			"class": "2024 ΓΓ", "active": "y", "parent": "Maia Holmes Kueny"},
+    { "name": "Isabelle Preston",		"class": "2024 ΓΓ", "active": "y", "parent": "Matthew Chavez"},
+    { "name": "Jacob Rusting",			"class": "2024 ΓΓ", "active": "y", "parent": "Gabriel Martinez Sandoval"},
+    { "name": "Laur Trustee",			"class": "2024 ΓΓ", "active": "y", "parent": "Matthew Graves"},
+    { "name": "Lucy Rickart-Webb",		"class": "2024 ΓΓ", "active": "y", "parent": "Rachael Cohen"},
+    { "name": "Marissa Pe",			"class": "2024 ΓΓ", "active": "y", "parent": "Valerie Jun"},
+    { "name": "Matthew Lee",			"class": "2024 ΓΓ", "active": "y", "parent": "George Mooradian"},
+    { "name": "Noah Arst",			"class": "2024 ΓΓ", "active": "y", "parent": "Sam Black"},
+    { "name": "Owen Pesenhofer",		"class": "2024 ΓΓ", "active": "y", "parent": "Leigha Linder"},
+    { "name": "Patricia Yu",			"class": "2024 ΓΓ", "active": "y", "parent": "Natalie Loftus"},
+    { "name": "Ryland Goldman",			"class": "2024 ΓΓ", "active": "y", "parent": "John Zhang"},
+    { "name": "Olivia Dansby",			"class": "2024 ΓΓ", "active": "y", "parent": "Alfredo Moran"},
 ];
 
 

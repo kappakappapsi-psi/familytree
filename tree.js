@@ -84,7 +84,7 @@ var data = [
     {"name": "Brian Mathiyakom",      "class": "2002 BE", "active": "n", "parent": "Kurt Star" },
     {"name": "Brian Netter",          "class": "2002 BE", "active": "n", "parent": "Gordon Spates" },
     {"name": "Blake Tierny",          "class": "2002 BE", "active": "n", "parent": "Psi Chapter" },
-
+	
     // Beta Zeta
     {"name": "Brian Clayton",         "class": "2003 BZ", "active": "n", "parent": "Phil Snowberger" },
     {"name": "Robbie Contreras",      "class": "2003 BZ", "active": "n", "parent": "John Jordon" },
@@ -539,7 +539,7 @@ var data = [
     { "name": "Ryland Goldman",			"class": "2024 ΓΓ", "active": "y", "parent": "John Zhang"},
     { "name": "Olivia Dansby",			"class": "2024 ΓΓ", "active": "y", "parent": "Alfredo Moran"},
 
-	//Gamma Delta
+    //Gamma Delta
     { "name": "Isaac Balderas",			"class": "2025 ΓΔ", "active": "y", "parent": "Laur Trustee"},
     { "name": "Alice Chiang",			"class": "2025 ΓΔ", "active": "y", "parent": "Stanley Chow"},
     { "name": "Jimena Cortes",			"class": "2025 ΓΔ", "active": "n", "parent": "Grace Kieffer"},

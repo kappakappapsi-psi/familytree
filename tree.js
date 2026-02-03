@@ -555,7 +555,7 @@ var data = [
     { "name": "Isma Villarreal",		"class": "2025 ΓΔ", "active": "y", "parent": "Leigha Linder"},
     { "name": "Brianna Wong",			"class": "2025 ΓΔ", "active": "y", "parent": "Alice Knystautas"},
 
-	//Gamma Delta
+	//Gamma Epsilon
     { "name": "John Isaiah Barrera",	"class": "2026 ΓE", "active": "y", "parent": "Stanley Chow"},
     { "name": "Brooke Bonsall",			"class": "2026 ΓE", "active": "y", "parent": "Lucy Rickart-Webb"},
     { "name": "Eva Castañeda",			"class": "2026 ΓE", "active": "y", "parent": "Brianna Wong"},
